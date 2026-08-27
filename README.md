@@ -29,8 +29,6 @@ O foco foi compreender não apenas o que cada recurso faz, mas também em quais 
 
 Os registros visuais e demais evidências do processo serão organizados na pasta [`imagens`](./imagens).
 
-> Observação: este projeto não apresenta resultados de uma execução real na AWS. As informações documentadas representam o conteúdo estudado e os conhecimentos adquiridos durante o desafio.
-
 ## 6. Insights
 
 ### 6.1 Análise automatizada de imagens
@@ -67,7 +65,7 @@ Também foi importante compreender que cada funcionalidade possui uma finalidade
 
 ## 9. Limitações
 
-A etapa prática com a infraestrutura da AWS não foi executada neste projeto devido à indisponibilidade de uma conta AWS para utilização do serviço. Por esse motivo, não são apresentados resultados, métricas ou capturas de tela simulando uma execução real.
+A etapa prática com a infraestrutura da AWS não foi executada neste projeto devido à indisponibilidade de uma conta AWS para utilização do serviço. Por esse motivo, não são apresentados resultados ou métricas de uma execução prática.
 
 ## 10. Conclusão
 
