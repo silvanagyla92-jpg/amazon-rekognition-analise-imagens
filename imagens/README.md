@@ -4,9 +4,7 @@ Esta pasta é destinada às capturas de tela e demais evidências visuais relaci
 
 ## 3.1 Organização
 
-As imagens poderão ser adicionadas conforme forem obtidas evidências reais do processo de aprendizagem ou de uma futura execução prática.
-
-> Não serão incluídas imagens que representem uma execução da AWS que não tenha sido realizada.
+As imagens relacionadas ao processo de aprendizagem e às atividades desenvolvidas poderão ser adicionadas nesta pasta conforme a evolução do projeto.
 
 ---
 
