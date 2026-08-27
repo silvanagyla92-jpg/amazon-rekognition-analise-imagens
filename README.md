@@ -27,7 +27,7 @@ O foco foi compreender não apenas o que cada recurso faz, mas também em quais 
 
 ## 5. Evidências
 
-Os registros visuais e demais evidências do processo serão organizados na pasta [`imagens`](./imagens).
+A pasta [`imagens`](./imagens) está reservada para evidências visuais que possam ser incorporadas futuramente ao projeto.
 
 ## 6. Insights
 
@@ -81,11 +81,12 @@ O estudo do Amazon Rekognition permitiu conhecer recursos relevantes de visão c
 
 **GitHub:** [silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
 
-**LinkedIn:** www.linkedin.com/in/nágyla-silva-215aba35a 
+**LinkedIn:** [Nágyla Silva](https://www.linkedin.com/in/nágyla-silva-215aba35/)
 
 ---
 
 **Projeto:** Amazon Rekognition — Análise de Imagens
 
+**Autora:** Nágyla Silva
 
 Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
