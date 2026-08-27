@@ -32,11 +32,11 @@ O **Custom Labels** permite criar modelos personalizados para identificar objeto
 
 A principal diferença em relação a uma classificação genérica é a possibilidade de adaptar o modelo às necessidades de um projeto, utilizando categorias relevantes para o problema que se deseja resolver.
 
-## 2.7 Text in Image
+## 2.7 Text Detection (Text in Image)
 
-O recurso de análise de texto em imagens permite identificar informações textuais presentes em conteúdo visual.
+O **Text Detection** permite identificar texto presente em imagens. No contexto do conteúdo estudado, essa capacidade foi apresentada como análise de texto em imagens.
 
-Essa capacidade pode ser útil em cenários de digitalização, organização de documentos, leitura de informações presentes em imagens e automação de processos.
+Essa funcionalidade pode ser útil em cenários de digitalização, organização de documentos, leitura de informações presentes em imagens e automação de processos.
 
 ## 2.8 Celebrity Recognition
 
@@ -59,7 +59,7 @@ Essas informações podem apoiar processos de controle de qualidade e seleção 
 | Face Liveness | Verificar presença física em tempo real |
 | Content Moderation | Detectar e classificar conteúdo potencialmente impróprio |
 | Custom Labels | Identificar categorias personalizadas |
-| Text in Image | Identificar texto em imagens |
+| Text Detection (Text in Image) | Identificar texto em imagens |
 | Celebrity Recognition | Reconhecer celebridades |
 | Image Properties | Analisar propriedades e características da imagem |
 
