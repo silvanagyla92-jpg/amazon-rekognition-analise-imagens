@@ -83,3 +83,4 @@ O estudo do Amazon Rekognition permitiu conhecer recursos relevantes de visão c
 
 **Nágyla Silva**  
 GitHub: [silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
+LinkedIn: www.linkedin.com/in/nágyla-silva-215aba35a
